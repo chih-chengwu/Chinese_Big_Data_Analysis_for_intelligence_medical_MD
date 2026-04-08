@@ -10,7 +10,9 @@
   - [📁 附件](#-附件)
   - [🧠 第一週：Overview - 智慧醫療大數據](#-第一週overview---智慧醫療大數據)
   - [🧠 第四週：大數據資料擷取收集整理 - Data Acquisition](#-第四週大數據資料擷取收集整理---data-acquisition)
-    - [🔧 注意事項](#-注意事項)
+  - [🧠 第五週：資料前處理 - Data Preprocessing](#-第五週資料前處理---data-preprocessing)
+  - [🧠 第七-九週：以Kaggle3個Project為例](#-第七-九週以kaggle3個project為例)
+      - [🔧 注意事項](#-注意事項)
 
 ---
 
@@ -46,7 +48,15 @@
 ## 🧠 第五週：資料前處理 - Data Preprocessing
 
 * [第5週-大數據前處理與範例.pdf](第5週-大數據前處理與範例.pdf)
-* [第5週-微調部份程式](第5週-微調部份程式.7z)
+* [第5週-微調上述部份程式](第5週-微調部份程式.7z)
+
+---
+
+## 🧠 第七-九週：以Kaggle3個Project為例
+
+* 資料夾: Kaggle/1_InsuranceFraudDetection-Using12Models
+* 資料夾: Kaggle/2_VehicleInsuranceFraudDetection
+* 資料夾: Kaggle/3_InvestmentandFinancialAnalysis
 
 ---
 

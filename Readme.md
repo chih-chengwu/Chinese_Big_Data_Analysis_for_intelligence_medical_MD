@@ -12,7 +12,7 @@
   - [🧠 第四週：大數據資料擷取收集整理 - Data Acquisition](#-第四週大數據資料擷取收集整理---data-acquisition)
   - [🧠 第五週：資料前處理 - Data Preprocessing](#-第五週資料前處理---data-preprocessing)
   - [🧠 第七-九週：以Kaggle3個Project為例](#-第七-九週以kaggle3個project為例)
-      - [🔧 注意事項](#-注意事項)
+    - [🔧 注意事項](#-注意事項)
 
 ---
 
@@ -54,9 +54,9 @@
 
 ## 🧠 第七-九週：以Kaggle3個Project為例
 
-* 資料夾: Kaggle/1_InsuranceFraudDetection-Using12Models
-* 資料夾: Kaggle/2_VehicleInsuranceFraudDetection
-* 資料夾: Kaggle/3_InvestmentandFinancialAnalysis
+* 詳資料夾: Kaggle/1_InsuranceFraudDetection-Using12Models
+* 詳資料夾: Kaggle/2_VehicleInsuranceFraudDetection
+* 詳資料夾: Kaggle/3_InvestmentandFinancialAnalysis
 
 ---
 
